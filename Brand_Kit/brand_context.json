@@ -1,5 +1,5 @@
 {
-  "source_version": "savoy-brand-kit-2.2",
+  "source_version": "savoy-brand-kit-2.3",
   "company_summary": "Savoy Drugstore is a UAE-based B2B regulatory services company supporting brands, clinics, manufacturers and distributors with product registration, documentation review, authority coordination and regulatory advisory.",
   "brand_kit": {
     "logo_reference": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_primary_transparent.png",
@@ -50,7 +50,7 @@
     ]
   },
   "template_rules": {
-    "version": "1.0",
+    "version": "1.1",
     "status": "owner_approved",
     "font_roles": {
       "headline": "Playfair Display",
@@ -161,9 +161,28 @@
         ]
       },
       {
+        "id": "savoy_linkedin_classic_editorial",
+        "platform": "linkedin",
+        "formats": ["post", "banner", "image"],
+        "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
+        "layout": "classic_editorial",
+        "panel_color": "#0F1729",
+        "accent_color": "#B8A98A",
+        "headline_color": "#FFFFFF",
+        "support_color": "#F1F5FE",
+        "logo_surface": "dark",
+        "logo_placement": "panel_bottom_left",
+        "background_focal": "center",
+        "cta_label": "Contact Us",
+        "background_direction": "Classic Savoy Dubai editorial composition: a senior regulatory advisor reviews a formal product dossier at a bright desk, with product packaging and a refined Burj Khalifa or Dubai skyline visible through the window. Keep the upper half photographic, human and detailed; reserve the lower 48 percent as a full-width Navy editorial field for deterministic headline, support copy, approved transparent logo and CTA. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
+        "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/expert_guidance_reference.jpeg",
+        "required_signals": ["balanced photographic Dubai field", "lower-third Navy editorial statement", "refined display hierarchy", "restrained premium gold accent"]
+      },
+      {
         "id": "savoy_linkedin_expert_quote",
         "platform": "linkedin",
         "formats": [
+          "post",
           "banner",
           "image"
         ],
@@ -189,6 +208,42 @@
           "refined display hierarchy",
           "restrained premium accent"
         ]
+      },
+      {
+        "id": "savoy_instagram_classic_editorial",
+        "platform": "instagram",
+        "formats": ["post", "banner", "image"],
+        "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
+        "layout": "classic_editorial",
+        "panel_color": "#0F1729",
+        "accent_color": "#B8A98A",
+        "headline_color": "#FFFFFF",
+        "support_color": "#F1F5FE",
+        "logo_surface": "dark",
+        "logo_placement": "panel_bottom_left",
+        "background_focal": "center",
+        "cta_label": "Contact Us",
+        "background_direction": "Classic Savoy Dubai editorial composition for Instagram: a professional regulatory advisor, formal dossier and selective regulated-product context in a bright office with a refined skyline cue. Keep the upper half photographic, human and uncluttered; reserve the lower 48 percent as a full-width Navy statement field for deterministic headline, support copy, approved transparent logo and CTA. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
+        "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/expert_guidance_reference.jpeg",
+        "required_signals": ["balanced photographic Dubai field", "lower-third Navy editorial statement", "refined display hierarchy", "restrained premium gold accent"]
+      },
+      {
+        "id": "savoy_instagram_clean_expert_quote",
+        "platform": "instagram",
+        "formats": ["post", "banner", "image"],
+        "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
+        "layout": "bottom_panel",
+        "panel_color": "#0F1729",
+        "accent_color": "#B8A98A",
+        "headline_color": "#FFFFFF",
+        "support_color": "#F1F5FE",
+        "logo_surface": "dark",
+        "logo_placement": "panel_bottom_left",
+        "background_focal": "center",
+        "cta_label": "Contact Us",
+        "background_direction": "Refined Savoy clean expert-guidance treatment for Instagram: a senior UAE regulatory advisor in a light professional office, reviewing a formal submission dossier with restrained product context and a soft Dubai skyline cue. Keep the photographic field bright and uncluttered while reserving the lower panel for a Navy editorial statement, approved transparent logo and gold CTA. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
+        "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/expert_guidance_reference.jpeg",
+        "required_signals": ["light editorial field", "refined display hierarchy", "restrained premium accent"]
       },
       {
         "id": "savoy_instagram_regulatory_photo_panel",
