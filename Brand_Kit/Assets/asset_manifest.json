@@ -1,44 +1,41 @@
 {
   "brand": "Savoy Drugstore",
   "version": "2.0",
-  "updated_at": "2026-08-13",
+  "updated_at": "2026-08-16",
   "approved": true,
   "handoff_status": "partial",
-  "handoff_reason": "MISSING_DURABLE_PUBLIC_URL",
-  "public_hub": null,
+  "handoff_reason": "PENDING_PUBLIC_VERIFICATION",
+  "public_hub": "https://github.com/daveswisa-cmyk/savoy-drugstore-brand-kit",
+  "public_manifest_url": null,
   "assets": {
     "logo_primary": {
       "approved": true,
       "local_path": "Brand_Kit/Assets/logo_primary_transparent.png",
       "format": "image/png",
       "transparent": true,
-      "direct_https_url": null,
-      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+      "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_primary_transparent.png"
     },
     "logo_light": {
       "approved": true,
       "local_path": "Brand_Kit/Assets/logo_light_transparent.png",
       "format": "image/png",
       "transparent": true,
-      "direct_https_url": null,
-      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+      "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_light_transparent.png"
     },
     "logo_dark": {
       "approved": true,
       "local_path": "Brand_Kit/Assets/logo_dark_transparent.png",
       "format": "image/png",
       "transparent": true,
-      "direct_https_url": null,
-      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+      "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_dark_transparent.png"
     },
     "logo_gold": {
       "approved": true,
       "local_path": "Brand_Kit/Assets/logo_gold_transparent.png",
       "format": "image/png",
       "transparent": true,
-      "direct_https_url": null,
-      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+      "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_gold_transparent.png"
     }
   },
-  "next_action": "Publish only the approved Assets directory to an owner-approved durable public HTTPS origin, then update URLs and run anonymous plus external verification."
+  "next_action": "Run anonymous URL tests and independent read-only verification. If successful, update the public and local manifests to handoff_status ready."
 }
