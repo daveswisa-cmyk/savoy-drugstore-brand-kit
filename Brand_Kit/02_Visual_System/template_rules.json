@@ -1,6 +1,7 @@
 {
   "version": "1.0",
   "status": "owner_approved",
+  "font_roles": {"headline": "Playfair Display", "support": "Inter"},
   "reference_sources": {
     "website": "https://savoydrugstore.ae",
     "linkedin": {

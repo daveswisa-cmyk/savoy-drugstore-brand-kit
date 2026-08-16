@@ -22,6 +22,7 @@
     "version": "1.0",
     "path": "Brand_Kit/02_Visual_System/template_rules.json",
     "status": "owner_approved",
+    "font_roles": {"headline": "Playfair Display", "support": "Inter"},
     "reference_sources": {
       "website": "https://savoydrugstore.ae",
       "linkedin_account_id": "bdJXT",
