@@ -1,0 +1,44 @@
+{
+  "brand": "Savoy Drugstore",
+  "version": "2.0",
+  "updated_at": "2026-08-13",
+  "approved": true,
+  "handoff_status": "partial",
+  "handoff_reason": "MISSING_DURABLE_PUBLIC_URL",
+  "public_hub": null,
+  "assets": {
+    "logo_primary": {
+      "approved": true,
+      "local_path": "Brand_Kit/Assets/logo_primary_transparent.png",
+      "format": "image/png",
+      "transparent": true,
+      "direct_https_url": null,
+      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+    },
+    "logo_light": {
+      "approved": true,
+      "local_path": "Brand_Kit/Assets/logo_light_transparent.png",
+      "format": "image/png",
+      "transparent": true,
+      "direct_https_url": null,
+      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+    },
+    "logo_dark": {
+      "approved": true,
+      "local_path": "Brand_Kit/Assets/logo_dark_transparent.png",
+      "format": "image/png",
+      "transparent": true,
+      "direct_https_url": null,
+      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+    },
+    "logo_gold": {
+      "approved": true,
+      "local_path": "Brand_Kit/Assets/logo_gold_transparent.png",
+      "format": "image/png",
+      "transparent": true,
+      "direct_https_url": null,
+      "status": "LOCAL_READY_PUBLIC_URL_MISSING"
+    }
+  },
+  "next_action": "Publish only the approved Assets directory to an owner-approved durable public HTTPS origin, then update URLs and run anonymous plus external verification."
+}
