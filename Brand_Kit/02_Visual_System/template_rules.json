@@ -52,6 +52,7 @@
       "support_color": "#F1F5FE",
       "logo_surface": "dark",
       "background_direction": "Use a photorealistic professional reviewing documentation in a refined UAE office environment, with a clear image area on the right. Do not render text or logos in the background.",
+      "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/product_registration_reference.jpeg",
       "required_signals": ["numbered or structured process hierarchy", "navy editorial field", "controlled gold accent", "professional UAE documentation context"]
     },
     {
@@ -66,6 +67,7 @@
       "support_color": "#F1F5FE",
       "logo_surface": "dark",
       "background_direction": "Use a bright, spacious UAE professional planning or authority-context scene with room for an editorial lower information panel. Do not render text or logos in the background.",
+      "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/regulatory_insight_reference.jpeg",
       "required_signals": ["website-like white space", "blue information surface", "clear regulatory authority"]
     },
     {
@@ -80,6 +82,7 @@
       "support_color": "#414958",
       "logo_surface": "light",
       "background_direction": "Use a refined, light professional planning environment with quiet depth and restrained UAE cues. Do not render text or logos in the background.",
+      "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/expert_guidance_reference.jpeg",
       "required_signals": ["light editorial field", "refined display hierarchy", "restrained premium accent"]
     },
     {
@@ -94,6 +97,7 @@
       "support_color": "#F1F5FE",
       "logo_surface": "dark",
       "background_direction": "Use a photorealistic UAE office meeting, regulatory planning, or professional documentation review with warm daylight and a clear lower-third photo-panel area. Do not render text or logos in the background.",
+      "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/product_registration_reference.jpeg",
       "required_signals": ["photorealistic professional UAE context", "blue lower information panel", "concise high-contrast headline"]
     },
     {
@@ -108,6 +112,7 @@
       "support_color": "#F1F5FE",
       "logo_surface": "dark",
       "background_direction": "Use a clean professional documentation, laboratory-adjacent, or regulated-product setting with space for an educational structure. Do not render text or logos in the background.",
+      "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/regulatory_insight_reference.jpeg",
       "required_signals": ["educational process clarity", "navy information panel", "regulated professional context"]
     }
   ]
