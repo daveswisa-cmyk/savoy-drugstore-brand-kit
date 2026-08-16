@@ -3,10 +3,9 @@
   "version": "2.0",
   "updated_at": "2026-08-16",
   "approved": true,
-  "handoff_status": "partial",
-  "handoff_reason": "PENDING_PUBLIC_VERIFICATION",
+  "handoff_status": "ready",
+  "handoff_reason": null,
   "public_hub": "https://github.com/daveswisa-cmyk/savoy-drugstore-brand-kit",
-  "public_manifest_url": null,
   "assets": {
     "logo_primary": {
       "approved": true,
@@ -37,5 +36,10 @@
       "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_gold_transparent.png"
     }
   },
-  "next_action": "Run anonymous URL tests and independent read-only verification. If successful, update the public and local manifests to handoff_status ready."
+  "verification": {
+    "anonymous_url_test": "PASSED: primary, light and dark logo URLs returned HTTP 200 with image/png.",
+    "external_read_only_verification": "PASSED: manifest JSON valid and required 3/3 PNG URLs publicly accessible without login.",
+    "verified_on": "2026-08-16"
+  },
+  "next_action": "Run the project-scoped Brand Kit refresh in Marketing Manager V2 and confirm it reports status=ready before creating any preview."
 }
