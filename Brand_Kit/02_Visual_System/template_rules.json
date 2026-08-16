@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "status": "owner_approved",
+  "reference_sources": {
+    "website": "https://savoydrugstore.ae",
+    "linkedin": {
+      "account_id": "bdJXT",
+      "account_name": "Savoy Drugstore",
+      "reference_post_ids": ["X40lQ", "kwleb"]
+    },
+    "instagram": {
+      "account_id": "e6yor",
+      "account_name": "savoy_drugstore",
+      "reference_post_ids": ["FE5zg"]
+    }
+  },
+  "continuity_profile": {
+    "required_signals": [
+      "spacious editorial hierarchy",
+      "UAE regulatory or professional market-entry context",
+      "navy and blue authority with white or off-white clarity",
+      "controlled gold accent only",
+      "headline-led information structure",
+      "approved transparent Savoy logo with high contrast"
+    ],
+    "forbidden_signals": [
+      "generic consumer beauty imagery",
+      "dark luxury-only styling",
+      "crowded compositions",
+      "unreadable overlays",
+      "uncontrolled AI text or hands",
+      "another company's platform, casino, gaming, retail, or technology vocabulary"
+    ],
+    "owner_review_required_for": [
+      "a new visual family not listed in templates",
+      "a dominant color outside the approved palette",
+      "a materially different logo placement or treatment",
+      "a consumer-first or dark-only aesthetic direction"
+    ]
+  },
+  "templates": [
+    {
+      "id": "savoy_linkedin_process",
+      "platform": "linkedin",
+      "formats": ["banner", "image"],
+      "content_types": ["process", "registration", "documentation", "authority coordination"],
+      "layout": "left_panel",
+      "panel_color": "#0F1729",
+      "accent_color": "#B8A98A",
+      "headline_color": "#FFFFFF",
+      "support_color": "#F1F5FE",
+      "logo_surface": "dark",
+      "background_direction": "Use a photorealistic professional reviewing documentation in a refined UAE office environment, with a clear image area on the right. Do not render text or logos in the background.",
+      "required_signals": ["numbered or structured process hierarchy", "navy editorial field", "controlled gold accent", "professional UAE documentation context"]
+    },
+    {
+      "id": "savoy_linkedin_editorial_insight",
+      "platform": "linkedin",
+      "formats": ["banner", "image"],
+      "content_types": ["regulation", "compliance", "market entry", "regulatory advisory"],
+      "layout": "bottom_panel",
+      "panel_color": "#1147BB",
+      "accent_color": "#B8A98A",
+      "headline_color": "#FFFFFF",
+      "support_color": "#F1F5FE",
+      "logo_surface": "dark",
+      "background_direction": "Use a bright, spacious UAE professional planning or authority-context scene with room for an editorial lower information panel. Do not render text or logos in the background.",
+      "required_signals": ["website-like white space", "blue information surface", "clear regulatory authority"]
+    },
+    {
+      "id": "savoy_linkedin_expert_quote",
+      "platform": "linkedin",
+      "formats": ["banner", "image"],
+      "content_types": ["quote", "trust", "philosophy", "partnership"],
+      "layout": "floating_card",
+      "panel_color": "#F9F9F7",
+      "accent_color": "#1147BB",
+      "headline_color": "#0F1729",
+      "support_color": "#414958",
+      "logo_surface": "light",
+      "background_direction": "Use a refined, light professional planning environment with quiet depth and restrained UAE cues. Do not render text or logos in the background.",
+      "required_signals": ["light editorial field", "refined display hierarchy", "restrained premium accent"]
+    },
+    {
+      "id": "savoy_instagram_regulatory_photo_panel",
+      "platform": "instagram",
+      "formats": ["image", "banner"],
+      "content_types": ["regulation", "compliance", "authority", "market entry"],
+      "layout": "bottom_panel",
+      "panel_color": "#1147BB",
+      "accent_color": "#B8A98A",
+      "headline_color": "#FFFFFF",
+      "support_color": "#F1F5FE",
+      "logo_surface": "dark",
+      "background_direction": "Use a photorealistic UAE office meeting, regulatory planning, or professional documentation review with warm daylight and a clear lower-third photo-panel area. Do not render text or logos in the background.",
+      "required_signals": ["photorealistic professional UAE context", "blue lower information panel", "concise high-contrast headline"]
+    },
+    {
+      "id": "savoy_instagram_educational_carousel",
+      "platform": "instagram",
+      "formats": ["carousel", "image"],
+      "content_types": ["process", "documentation", "education", "registration"],
+      "layout": "left_panel",
+      "panel_color": "#0F1729",
+      "accent_color": "#B8A98A",
+      "headline_color": "#FFFFFF",
+      "support_color": "#F1F5FE",
+      "logo_surface": "dark",
+      "background_direction": "Use a clean professional documentation, laboratory-adjacent, or regulated-product setting with space for an educational structure. Do not render text or logos in the background.",
+      "required_signals": ["educational process clarity", "navy information panel", "regulated professional context"]
+    }
+  ]
+}

@@ -18,6 +18,27 @@
     "content_pillars": ["UAE product registration", "Documentation review", "Regulatory preparation", "Authority coordination", "Professional-use compliance"],
     "calls_to_action": ["Request a regulatory consultation", "Discuss your UAE market-entry requirements", "Explore Savoy's regulatory support"]
   },
+  "template_rules": {
+    "version": "1.0",
+    "path": "Brand_Kit/02_Visual_System/template_rules.json",
+    "status": "owner_approved",
+    "reference_sources": {
+      "website": "https://savoydrugstore.ae",
+      "linkedin_account_id": "bdJXT",
+      "instagram_account_id": "e6yor"
+    },
+    "continuity_profile": {
+      "required_signals": ["spacious editorial hierarchy", "UAE regulatory or professional market-entry context", "navy and blue authority with white or off-white clarity", "controlled gold accent only", "approved transparent Savoy logo with high contrast"],
+      "forbidden_signals": ["generic consumer beauty imagery", "dark luxury-only styling", "crowded compositions", "unreadable overlays", "uncontrolled AI text or hands", "another company's platform, casino, gaming, retail, or technology vocabulary"]
+    },
+    "templates": [
+      {"id": "savoy_linkedin_process", "platform": "linkedin", "formats": ["banner", "image"], "content_types": ["process", "registration", "documentation", "authority coordination"], "layout": "left_panel", "panel_color": "#0F1729", "accent_color": "#B8A98A", "headline_color": "#FFFFFF", "support_color": "#F1F5FE", "logo_surface": "dark", "background_direction": "Use a photorealistic professional reviewing documentation in a refined UAE office environment, with a clear image area on the right. Do not render text or logos in the background."},
+      {"id": "savoy_linkedin_editorial_insight", "platform": "linkedin", "formats": ["banner", "image"], "content_types": ["regulation", "compliance", "market entry", "regulatory advisory"], "layout": "bottom_panel", "panel_color": "#1147BB", "accent_color": "#B8A98A", "headline_color": "#FFFFFF", "support_color": "#F1F5FE", "logo_surface": "dark", "background_direction": "Use a bright, spacious UAE professional planning or authority-context scene with room for an editorial lower information panel. Do not render text or logos in the background."},
+      {"id": "savoy_linkedin_expert_quote", "platform": "linkedin", "formats": ["banner", "image"], "content_types": ["quote", "trust", "philosophy", "partnership"], "layout": "floating_card", "panel_color": "#F9F9F7", "accent_color": "#1147BB", "headline_color": "#0F1729", "support_color": "#414958", "logo_surface": "light", "background_direction": "Use a refined, light professional planning environment with quiet depth and restrained UAE cues. Do not render text or logos in the background."},
+      {"id": "savoy_instagram_regulatory_photo_panel", "platform": "instagram", "formats": ["image", "banner"], "content_types": ["regulation", "compliance", "authority", "market entry"], "layout": "bottom_panel", "panel_color": "#1147BB", "accent_color": "#B8A98A", "headline_color": "#FFFFFF", "support_color": "#F1F5FE", "logo_surface": "dark", "background_direction": "Use a photorealistic UAE office meeting, regulatory planning, or professional documentation review with warm daylight and a clear lower-third photo-panel area. Do not render text or logos in the background."},
+      {"id": "savoy_instagram_educational_carousel", "platform": "instagram", "formats": ["carousel", "image"], "content_types": ["process", "documentation", "education", "registration"], "layout": "left_panel", "panel_color": "#0F1729", "accent_color": "#B8A98A", "headline_color": "#FFFFFF", "support_color": "#F1F5FE", "logo_surface": "dark", "background_direction": "Use a clean professional documentation, laboratory-adjacent, or regulated-product setting with space for an educational structure. Do not render text or logos in the background."}
+    ]
+  },
   "claims": {
     "approved": [
       "Savoy Drugstore is a UAE-based B2B regulatory services company.",
