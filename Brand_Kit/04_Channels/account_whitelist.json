@@ -1,0 +1,33 @@
+{
+  "approved": true,
+  "company": "Savoy Drugstore",
+  "publishing_provider": "Outstand only",
+  "accounts": {
+    "instagram": [
+      {
+        "handle": "savoy_drugstore",
+        "account_id": "e6yor",
+        "network": "instagram",
+        "approved_for_publishing": true
+      }
+    ],
+    "linkedin": [
+      {
+        "name": "Savoy Drugstore",
+        "account_id": "bdJXT",
+        "network": "linkedin",
+        "company_page_id": "138734035",
+        "approved_for_publishing": true
+      }
+    ]
+  },
+  "prohibited": [
+    "Any account not explicitly listed above",
+    "Manus Instagram connector",
+    "Direct Meta API publishing",
+    "Browser-based social publishing",
+    "Alternative social publishing providers"
+  ],
+  "review_required": false,
+  "credential_storage": "No tokens, passwords, or API keys are stored in this Brand Kit."
+}

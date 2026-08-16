@@ -1,0 +1,27 @@
+{
+  "approved": true,
+  "brand": "Savoy Drugstore",
+  "families": [
+    {
+      "name": "Inter",
+      "role": "Primary sans-serif",
+      "usage": ["Body text", "UI", "Navigation", "Secondary headings", "Email fallback where web fonts are unavailable"],
+      "weights": [400, 500, 600, 700],
+      "source": "Google Fonts",
+      "licensing_status": "OWNER_APPROVED_GOOGLE_FONTS_SOURCE"
+    },
+    {
+      "name": "Playfair Display",
+      "role": "Display serif",
+      "usage": ["H1", "H2", "Hero titles", "Selected premium editorial headings"],
+      "weights": [400, 500, 600, 700],
+      "source": "Google Fonts",
+      "licensing_status": "OWNER_APPROVED_GOOGLE_FONTS_SOURCE"
+    }
+  ],
+  "fallbacks": {
+    "sans": ["ui-sans-serif", "system-ui", "Arial", "sans-serif"],
+    "serif": ["Georgia", "serif"]
+  },
+  "email_note": "Use system fallbacks in email clients that do not support external web fonts."
+}

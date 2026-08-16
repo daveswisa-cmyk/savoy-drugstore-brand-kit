@@ -1,0 +1,13 @@
+{
+  "approved": true,
+  "brand": "Savoy Drugstore",
+  "palette": [
+    {"name": "Primary Navy", "hex": "#0F1729", "rgb": [15, 23, 41], "usage": "Primary backgrounds, primary text, footers"},
+    {"name": "Brand Blue", "hex": "#1147BB", "rgb": [17, 71, 187], "usage": "CTAs, active links, panels, controlled accents"},
+    {"name": "Warm Gold", "hex": "#B8A98A", "rgb": [184, 169, 138], "usage": "Premium accents and limited subheading treatment"},
+    {"name": "White", "hex": "#FFFFFF", "rgb": [255, 255, 255], "usage": "Light backgrounds and text on dark fields"},
+    {"name": "Light Blue", "hex": "#F1F5FE", "rgb": [241, 245, 254], "usage": "Subtle section backgrounds"},
+    {"name": "Secondary Gray", "hex": "#414958", "rgb": [65, 73, 88], "usage": "Secondary text, borders and metadata"},
+    {"name": "Off-White", "hex": "#F9F9F7", "rgb": [249, 249, 247], "usage": "Email backgrounds and document bases"}
+  ]
+}

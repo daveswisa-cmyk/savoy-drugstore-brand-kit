@@ -1,0 +1,40 @@
+{
+  "source_version": "savoy-brand-kit-2.1",
+  "company_summary": "Savoy Drugstore is a UAE-based B2B regulatory services company supporting brands, clinics, manufacturers and distributors with product registration, documentation review, authority coordination and regulatory advisory.",
+  "brand_kit": {
+    "logo_reference": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_primary_transparent.png",
+    "logo_primary": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_primary_transparent.png",
+    "logo_light": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_light_transparent.png",
+    "logo_dark": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_dark_transparent.png",
+    "logo_gold": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_gold_transparent.png",
+    "colors": ["#0F1729", "#1147BB", "#B8A98A", "#FFFFFF", "#F1F5FE", "#414958", "#F9F9F7"],
+    "fonts": ["Inter", "Playfair Display"],
+    "design_style": "Professional, precise, spacious editorial layouts that pair regulatory authority with an elevated aesthetics perspective; navy and white establish clarity, blue provides controlled emphasis, and gold remains a limited accent.",
+    "voice_and_tone": "Professional, precise, compliance-focused, clear, qualified, and B2B-oriented."
+  },
+  "planning_defaults": {
+    "objectives": ["Educate", "Build trust", "Explain regulatory process", "Support market-entry awareness"],
+    "audiences": ["International brands", "Clinics launching proprietary products", "Manufacturers", "Distributors seeking compliant UAE market entry"],
+    "content_pillars": ["UAE product registration", "Documentation review", "Regulatory preparation", "Authority coordination", "Professional-use compliance"],
+    "calls_to_action": ["Request a regulatory consultation", "Discuss your UAE market-entry requirements", "Explore Savoy's regulatory support"]
+  },
+  "claims": {
+    "approved": [
+      "Savoy Drugstore is a UAE-based B2B regulatory services company.",
+      "Savoy supports product registration, documentation review, authority coordination and regulatory advisory.",
+      "Savoy supports brands, clinics, manufacturers and distributors seeking compliant UAE market entry.",
+      "Savoy works across cosmetics, personal care, haircare, aesthetics, wellness and professional-use product categories.",
+      "Medical, injectable and professional-use products are supplied exclusively to licensed healthcare facilities in accordance with applicable regulations.",
+      "Savoy’s regulatory journey can include documentation review, compliance assessment, regulatory preparation, authority submission, coordination and approval/market-readiness support."
+    ],
+    "proposed": [],
+    "prohibited": [
+      "Do not imply an official partnership, a guaranteed authority path, registration, approval or market-access outcome.",
+      "Do not use MOHAP or Dubai Municipality wording unless relevant to the product category and supported by a current regulatory check."
+    ]
+  },
+  "accounts": [
+    { "platform": "instagram", "account_id": "e6yor", "account_name": "savoy_drugstore" },
+    { "platform": "linkedin", "account_id": "bdJXT", "account_name": "Savoy Drugstore" }
+  ]
+}

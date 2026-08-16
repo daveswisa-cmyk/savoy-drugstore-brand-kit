@@ -1,6 +1,7 @@
 {
   "brand": "Savoy Drugstore",
-  "version": "2.0",
+  "project": "Savoy Drugstore",
+  "version": "2.1",
   "updated_at": "2026-08-16",
   "approved": true,
   "handoff_status": "ready",
@@ -12,6 +13,7 @@
       "local_path": "Brand_Kit/Assets/logo_primary_transparent.png",
       "format": "image/png",
       "transparent": true,
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_primary_transparent.png",
       "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_primary_transparent.png"
     },
     "logo_light": {
@@ -19,6 +21,7 @@
       "local_path": "Brand_Kit/Assets/logo_light_transparent.png",
       "format": "image/png",
       "transparent": true,
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_light_transparent.png",
       "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_light_transparent.png"
     },
     "logo_dark": {
@@ -26,6 +29,7 @@
       "local_path": "Brand_Kit/Assets/logo_dark_transparent.png",
       "format": "image/png",
       "transparent": true,
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_dark_transparent.png",
       "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_dark_transparent.png"
     },
     "logo_gold": {
@@ -33,6 +37,7 @@
       "local_path": "Brand_Kit/Assets/logo_gold_transparent.png",
       "format": "image/png",
       "transparent": true,
+      "url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_gold_transparent.png",
       "direct_https_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/80786fb1fae5c7d661d04469e9f7cbdb7d7e8b4e/Brand_Kit/Assets/logo_gold_transparent.png"
     }
   },
