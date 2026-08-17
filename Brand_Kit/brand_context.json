@@ -166,7 +166,7 @@
         "formats": ["post", "banner", "image"],
         "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
         "layout": "classic_editorial",
-        "panel_color": "#0F1729",
+        "panel_color": "#1147BB",
         "accent_color": "#B8A98A",
         "headline_color": "#FFFFFF",
         "support_color": "#F1F5FE",
@@ -175,9 +175,9 @@
         "background_focal": "center",
         "cta_label": "Contact Us",
         "support_copy": "Savoy supports product registration, documentation review, authority coordination and regulatory advisory.",
-        "background_direction": "Classic Savoy Dubai editorial composition: a clearly visible adult regulatory advisor must occupy the upper left-to-centre of the frame, seated at a bright desk and reviewing a formal product dossier. Include selective product packaging and a refined Burj Khalifa or Dubai skyline through the window, but never an empty interior or skyline-only scene. Keep the upper 52 percent photographic, human and detailed; reserve the lower 48 percent as a full-width Navy editorial field for deterministic headline, concise support copy, approved transparent logo and CTA. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
+        "background_direction": "High-impact Classic Savoy Dubai editorial composition: a clearly visible adult regulatory advisor must occupy the upper left-to-centre of the frame, seated at a bright desk and reviewing a formal product dossier. Include selective product packaging and a refined Burj Khalifa or Dubai skyline through the window, but never an empty interior or skyline-only scene. Keep the upper 52 percent photographic, human and detailed; reserve the lower 48 percent for a strong full-width blue-to-Navy editorial field with a large display headline, concise support line, oversized gold CTA and approved transparent logo. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
         "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/expert_guidance_reference.jpeg",
-        "required_signals": ["clearly visible human regulatory advisor", "balanced photographic Dubai field", "lower-third Navy editorial statement", "refined display hierarchy", "restrained premium gold accent"]
+        "required_signals": ["clearly visible human regulatory advisor", "balanced photographic Dubai field", "high-impact blue-to-Navy lower-third panel", "large display headline", "prominent gold CTA", "restrained premium gold accent"]
       },
       {
         "id": "savoy_linkedin_expert_quote",
@@ -216,7 +216,7 @@
         "formats": ["post", "banner", "image"],
         "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
         "layout": "classic_editorial",
-        "panel_color": "#0F1729",
+        "panel_color": "#1147BB",
         "accent_color": "#B8A98A",
         "headline_color": "#FFFFFF",
         "support_color": "#F1F5FE",
@@ -225,9 +225,9 @@
         "background_focal": "center",
         "cta_label": "Contact Us",
         "support_copy": "Savoy supports product registration, documentation review, authority coordination and regulatory advisory.",
-        "background_direction": "Classic Savoy Dubai editorial composition for Instagram: a clearly visible adult regulatory advisor must occupy the upper left-to-centre of the frame, seated with a formal dossier and selective regulated-product context in a bright office. Include a refined skyline cue, but never an empty interior or skyline-only scene. Keep the upper 52 percent photographic, human and uncluttered; reserve the lower 48 percent as a full-width Navy statement field for deterministic headline, concise support copy, approved transparent logo and CTA. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
+        "background_direction": "High-impact Classic Savoy Dubai editorial composition for Instagram: a clearly visible adult regulatory advisor must occupy the upper left-to-centre of the frame, seated with a formal dossier and selective regulated-product context in a bright office. Include a refined skyline cue, but never an empty interior or skyline-only scene. Keep the upper 52 percent photographic, human and uncluttered; reserve the lower 48 percent for a strong full-width blue-to-Navy editorial field with a large display headline, concise support line, oversized gold CTA and approved transparent logo. Render no text, signage, logos, maps, buttons or UI in the photographic background.",
         "reference_image_url": "https://raw.githubusercontent.com/daveswisa-cmyk/savoy-drugstore-brand-kit/3f603c40b6beea4110e338885797925c36871029/Brand_Kit/Assets/template_previews/expert_guidance_reference.jpeg",
-        "required_signals": ["clearly visible human regulatory advisor", "balanced photographic Dubai field", "lower-third Navy editorial statement", "refined display hierarchy", "restrained premium gold accent"]
+        "required_signals": ["clearly visible human regulatory advisor", "balanced photographic Dubai field", "high-impact blue-to-Navy lower-third panel", "large display headline", "prominent gold CTA", "restrained premium gold accent"]
       },
       {
         "id": "savoy_instagram_clean_expert_quote",
