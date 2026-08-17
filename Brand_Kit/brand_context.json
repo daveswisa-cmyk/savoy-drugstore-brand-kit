@@ -163,7 +163,7 @@
       {
         "id": "savoy_linkedin_classic_editorial",
         "platform": "linkedin",
-        "formats": ["post", "banner", "image"],
+        "formats": ["post", "banner", "image", "video"],
         "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
         "layout": "classic_editorial",
         "panel_color": "#1147BB",
@@ -182,11 +182,7 @@
       {
         "id": "savoy_linkedin_expert_quote",
         "platform": "linkedin",
-        "formats": [
-          "post",
-          "banner",
-          "image"
-        ],
+        "formats": ["post", "banner", "image", "video"],
         "content_types": [
           "quote",
           "trust",
@@ -213,7 +209,7 @@
       {
         "id": "savoy_instagram_classic_editorial",
         "platform": "instagram",
-        "formats": ["post", "banner", "image"],
+        "formats": ["post", "banner", "image", "video"],
         "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
         "layout": "classic_editorial",
         "panel_color": "#1147BB",
@@ -232,7 +228,7 @@
       {
         "id": "savoy_instagram_clean_expert_quote",
         "platform": "instagram",
-        "formats": ["post", "banner", "image"],
+        "formats": ["post", "banner", "image", "video"],
         "content_types": ["process", "registration", "documentation", "authority coordination", "regulation", "compliance", "market entry", "regulatory advisory", "quote", "trust", "philosophy", "partnership"],
         "layout": "bottom_panel",
         "panel_color": "#0F1729",
